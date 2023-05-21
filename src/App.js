@@ -3,21 +3,8 @@ import {
   BrowserRouter as Router,
   Route,
   Routes,
-  Switch,
 } from 'react-router-dom';
 import Home from './component/Home.jsx';
-import {
-  ChakraProvider,
-  Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
-  theme,
-  Button,
-} from '@chakra-ui/react';
-import { ColorModeSwitcher } from './ColorModeSwitcher';
 import Header from './component/Header.jsx';
 import Footer from './component/Footer.jsx';
 import Videos from './component/Videos.jsx';
