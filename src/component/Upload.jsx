@@ -4,7 +4,6 @@ import {
   VStack,
   Button,
   Input,
-  border,
 } from '@chakra-ui/react';
 import React from 'react';
 import { AiOutlineCloudUpload } from 'react-icons/ai';
